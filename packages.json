@@ -1,0 +1,34 @@
+{
+    "packageId": "1db83da4cbac89",
+    "name": "",
+    "description": "",
+    "buttons": [
+        {
+            "buttonId": "1f635a22eb7c35",
+            "name": "CAR PARK",
+            "description": "my first button description",
+            "type": "action",
+            "questions": [],
+            "navigation": {},
+            "webhooks": []
+        },
+        {
+            "buttonId": "11ecda29ec73dd",
+            "name": "RECEPTION",
+            "description": "button description",
+            "type": "action",
+            "questions": [],
+            "navigation": {},
+            "webhooks": []
+        },
+        {
+            "buttonId": "2a0c81404a1a02",
+            "name": "FIRST FLOOR",
+            "description": "button description",
+            "type": "action",
+            "questions": [],
+            "navigation": {},
+            "webhooks": []
+        }
+    ]
+}
